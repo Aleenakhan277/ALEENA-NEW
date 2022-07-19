@@ -272,7 +272,7 @@ def banner():
 
  '''
 
-	cetak(nel(ban, style='yellow'))
+	cetak(nel(ban, style='yellow,green'))
 
 #--------------------[ BAGIAN-MASUK ]--------------#
 
