@@ -1156,7 +1156,7 @@ def setting():
 
 	print('')
 
-	_jembot_ = input('SHOW APKS ( Y/t ) ')
+	_jembot_ = input('SHOW APKS ( y/t ) ')
 
 #	if _jembot_ in ['']:
 
@@ -1172,9 +1172,9 @@ def setting():
 
 #		taplikasi.append('no')
 
-	pwplus=input('PASWORD MENU MENUAL(CHOISE)/DEFULT(AUTO)( m/d ) ')
+	
 
-	if pwplus in ['y','Y']:
+	
 
 		pwpluss.append('ya')
 
@@ -1306,11 +1306,11 @@ def passwrd():
 
 	print('')
 
-	print('{k}Lanjut Crack Kembali ( Y/t ) ? ')
+	
 
 	woi = input(' : ')
 
-	if woi in ['y','Y']:
+	
 
 		back()
 
