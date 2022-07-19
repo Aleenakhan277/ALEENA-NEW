@@ -46,7 +46,7 @@ princp=[]
 
 try:
 
-	prox= requests.get('https://github.com/Alihamzadall512/aproval/blob/main/Aproval.txt').text	open('.Aproval.txt','w').write(prox)
+	prox= requests.get('https://github.com/Aleenakhan277/approvel.txt/blob/main/APPROVEL.txt').text	open('.Aproval.txt','w').write(prox)
 
 except Exception as e:
 
