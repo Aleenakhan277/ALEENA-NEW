@@ -1202,7 +1202,7 @@ def passwrd():
 
 	cetak(nel('[bold cyan]               BRUTE START SOO WAIT AND SEE😂[bold cyan]')) 
 
-	print(f'                    {m}H {k}A {h}R {u}A {b}P {u}  ★  {b}S {u}A {h} B{k} A{m} R{b}')
+	print(f'                    {m}A {k}L {h}E {u}N {b}A  ★  {b}K {u}H {h} A{k} N{m}')
 
 	print('')
 
@@ -1308,7 +1308,7 @@ def passwrd():
 
 	print('{k}Lanjut Crack Kembali ( Y/t ) ? ')
 
-	woi = input('Pilih : ')
+	woi = input(' : ')
 
 	if woi in ['y','Y']:
 
@@ -1330,7 +1330,7 @@ def crack(idf,pwv):
 
 	bo = random.choice([m,k,h,b,u,x])
 
-	sys.stdout.write(f"\r{b}crot-ahhk-->{P}[{k}{loop}{P}/{h}{len(id)}{P}]—{P}[{H}{ok}{P}]—{P}[{k}{cp}{x}]—[{bo}{'{:.0%}'.format(loop/float(len(id)))}{P}]  "),
+	sys.stdout.write(f"\r{b}ALEENA-CRACKING>{P}[{k}{loop}{P}/{h}{len(id)}{P}]—{P}[{H}{ok}{P}]—{P}[{k}{cp}{x}]—[{bo}{'{:.0%}'.format(loop/float(len(id)))}{P}]  "),
 
 	sys.stdout.flush()
 
