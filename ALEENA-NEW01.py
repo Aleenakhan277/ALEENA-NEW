@@ -259,6 +259,8 @@ def banner():
   / _ \| |__| _|| _|| .` |/ _ \ 
 
  /_/ \_\____|___|___|_|\_/_/ \_\
+ 
+ 
 
        |−−−−−−−−−−−−−−−−−−−−−−∣
 
@@ -320,7 +322,7 @@ def login_lagi334():
 
 		banner()
 
-		cetak(nel('\t             CINTO MANDI : [green]SEJAHTERA SELAMANYA[purple] '))
+		cetak(nel('\t             TOOL OWNER : [green]ALEENA KHAN[purple] '))
 
 		asu = random.choice([m,k,h,b,u])
 
