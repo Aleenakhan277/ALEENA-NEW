@@ -1180,7 +1180,7 @@ def setting():
 
 		
 
-		pwku=input('#Add PASSWORDS : ')
+		
 
 		pwkuh=pwku.split(',')
 
