@@ -1176,7 +1176,7 @@ def setting():
 
 	
 
-		pwpluss.append('ya')
+		
 
 		cetak(nel('[[purple]•[yellow]] ADD PASWORD MXM 6 WORDS\n[[purple]•[yellow]] EXIMPLE :[green] 556677,786786,123456[purple] '))
 
