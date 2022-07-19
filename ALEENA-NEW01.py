@@ -52,7 +52,7 @@ princp=[]
 
 	
 
-prox=open('.Aproval.txt','r').read().splitlines()
+
 
 for xd in range(10000):
 
